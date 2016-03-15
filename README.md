@@ -30,7 +30,7 @@ SQRT_EPSILON === 0.14901161193847656e-7;
 ## Examples
 
 ``` javascript
-var SQRT__EPSILON = require( 'const-sqrt-eps-float64' );
+var SQRT_EPSILON = require( 'const-sqrt-eps-float64' );
 
 console.log( SQRT_EPSILON );
 // returns 0.14901161193847656e-7
