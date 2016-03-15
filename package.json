@@ -1,6 +1,6 @@
 {
   "name": "const-sqrt-eps-float64",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Square root of double-precision floating-point epsilon.",
   "author": {
     "name": "Athan Reines",
