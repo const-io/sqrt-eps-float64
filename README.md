@@ -2,7 +2,7 @@ SQRT_EPSILON
 ===
 [![NPM version][npm-image]][npm-url] [![Build Status][build-image]][build-url] [![Coverage Status][coverage-image]][coverage-url] [![Dependencies][dependencies-image]][dependencies-url]
 
-> [Square root][math-sqrt] of [double-precision floating-point epsilon][eps-float64].
+> [Square root][math-sqrt] of [double-precision floating-point epsilon][const-eps-float64].
 
 
 ## Installation
@@ -20,7 +20,7 @@ var SQRT_EPSILON = require( 'const-sqrt-eps-float64' );
 
 #### SQRT_EPSILON
 
-[Square root][math-sqrt] of [double-precision floating-point epsilon][eps-float64].
+[Square root][math-sqrt] of [double-precision floating-point epsilon][const-eps-float64].
 
 ``` javascript
 SQRT_EPSILON === 0.14901161193847656e-7;
@@ -124,4 +124,4 @@ Copyright &copy; 2016. The [Compute.io][compute-io] Authors.
 
 [compute-io]: https://github.com/compute-io
 [math-sqrt]: https://github.com/math-io/sqrt
-[eps-float64]: https://github.com/const-io/eps-float64
+[const-eps-float64]: https://github.com/const-io/eps-float64
